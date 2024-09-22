@@ -14,3 +14,8 @@
 
 <img width="672" alt="dashboard_mockup" src="https://github.com/user-attachments/assets/cd91460e-1d75-4bd0-8d0e-b69897fa9364">
 
+
+## Link for the data in Kaggle:
+
+https://www.kaggle.com/datasets/bhavyadhingra00020/top-100-social-media-influencers-2024-countrywise?resource=download
+
