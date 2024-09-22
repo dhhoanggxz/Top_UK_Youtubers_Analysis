@@ -4,6 +4,7 @@
 
 ### Data Cleaning:
 **Using excel for creating new contributions such as: total views, total subscribers and total videos**
+
 **Upload excel file to SQL Server for deleting duplicates & unsuitable data**
 
 ### Visualization:
